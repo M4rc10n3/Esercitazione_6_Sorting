@@ -1,8 +1,6 @@
 #pragma once
 
-#include <iostream>
 #include <vector>
-
 #include <gtest/gtest.h>
 #include "SortingAlgorithm.hpp"
 #include "SortingAlgorithm.cpp"
